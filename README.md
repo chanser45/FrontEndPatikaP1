@@ -1,3 +1,3 @@
 ﻿# FrontEndPatikaP1
-patika egitimleri ders atlama odevleri
+patika egitimleri Kodluyoruz Eğitimi ders atlama odevleri
 ## HTML basics test
